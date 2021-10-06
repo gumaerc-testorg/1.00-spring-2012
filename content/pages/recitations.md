@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Recitations
-type: page
 uid: b572abe5-27d6-eb43-bbfc-f09bfe5f3397
 ---
 

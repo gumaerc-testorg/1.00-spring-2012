@@ -1,7 +1,7 @@
 ---
+content_type: page
 layout: instructor_insights
 title: Instructor Insights
-type: page
 uid: 55b15c54-cedb-48f0-020c-fc21e473e664
 ---
 

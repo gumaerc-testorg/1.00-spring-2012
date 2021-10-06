@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Assignments
-type: page
 uid: b1a78d76-f7e7-9a73-3cf9-35247474a66a
 ---
 
