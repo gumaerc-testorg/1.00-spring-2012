@@ -2,7 +2,6 @@
 content_type: resource
 description: 'This resource contains information regarding iteration and methods. '
 file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/e60f807428abe7e77fefab1930cc1a41_MIT1_00S12_REC_2.pdf
-file_location: /coursemedia/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/e60f807428abe7e77fefab1930cc1a41_MIT1_00S12_REC_2.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Iteration and Methods

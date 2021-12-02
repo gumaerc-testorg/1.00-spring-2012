@@ -2,7 +2,6 @@
 content_type: resource
 description: This resource contains information regarding classes and objects.
 file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/800d897a4db6f41aed47b37f77b66520_MIT1_00S12_Lec_7.pdf
-file_location: /coursemedia/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/800d897a4db6f41aed47b37f77b66520_MIT1_00S12_Lec_7.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Classes and Objects

@@ -2,7 +2,6 @@
 content_type: resource
 description: This resource contains information regarding quiz 1.
 file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/b44dcc65b103568648b27ba58677968d_MIT1_00S12_Quiz_1_S12.pdf
-file_location: /coursemedia/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/b44dcc65b103568648b27ba58677968d_MIT1_00S12_Quiz_1_S12.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Quiz 1
