@@ -2,7 +2,6 @@
 content_type: resource
 description: This is a special file for lecture 35.
 file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/4ed0d2a1a55c9696eefd53dbfd221071_Lecture_35_code.zip
-file_location: /coursemedia/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/4ed0d2a1a55c9696eefd53dbfd221071_Lecture_35_code.zip
 file_type: application/zip
 resourcetype: Other
 title: Lecture_35_code.zip

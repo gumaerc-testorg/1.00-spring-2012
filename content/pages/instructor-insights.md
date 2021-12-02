@@ -82,7 +82,7 @@ Every semester
 The Classroom
 -------------
 
-*   ![A large lecture hall with tiered seating and nine chalkboards.](BASEURL_PLACEHOLDER/resources/1-00_classroom-1)
+*   ![A large lecture hall with tiered seating and nine chalkboards.]({{< resource_file 20edc3dd-760e-735c-7d2a-7a9d3b19abbd >}})
     
     ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
     
@@ -90,7 +90,7 @@ The Classroom
     
     1.00 was taught in one of MIT’s largest lecture halls, which seats about 425. Students brought laptops to every class and sit in alternating rows. All lectures were active learning sessions with lab exercises posted a week before lecture.
     
-*   ![A small classroom with armchairs, as well as projectors and chalkboards at the front of the class.](BASEURL_PLACEHOLDER/resources/1-00_classroom-2)
+*   ![A small classroom with armchairs, as well as projectors and chalkboards at the front of the class.]({{< resource_file 1da3b74c-4db8-4dbb-266e-6a3f7b74d144 >}})
     
     [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
     
@@ -119,7 +119,7 @@ We saw a major change in student outcomes after implementing active learning. Be
 Student Information
 -------------------
 
-![On average, 125 students take this course each time it is offered.](BASEURL_PLACEHOLDER/resources/1-00_stat-students)
+![On average, 125 students take this course each time it is offered.]({{< resource_file 1dc42593-c04a-51b8-3c01-b9b1d3dcd5ce >}})
 
 ### Breakdown by Year
 
