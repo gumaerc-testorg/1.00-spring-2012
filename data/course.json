@@ -21,6 +21,7 @@
       "Software Design and Engineering"
     ]
   ],
+  "legacy_uid": "bb55dad7-f488-8f0a-1ad0-04600c5fb1f1",
   "instructors": {
     "content": [
       "b99a1ae6-d73f-451d-e987-c72883f0fefd",
@@ -49,5 +50,6 @@
     "Exams",
     "Programming Assignments with Examples"
   ],
+  "site_uid": "3caa7d8b-58a2-4dbd-b784-e72780d321b8",
   "title": "Course Metadata"
 }
