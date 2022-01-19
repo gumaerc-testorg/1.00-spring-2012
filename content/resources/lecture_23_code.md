@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special resource for lecture 23.
-file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/0ece800a170952b69153a46906f935e1_Lecture_23_code.zip
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/0ece800a170952b69153a46906f935e1_Lecture_23_code.zip
 file_type: application/zip
 resourcetype: Other
 title: Lecture_23_code.zip

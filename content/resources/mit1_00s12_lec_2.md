@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding interactive development
   environment: eclipse.'
-file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/2e15dbbfcfb67dd3d83fdcc05a985198_MIT1_00S12_Lec_2.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/2e15dbbfcfb67dd3d83fdcc05a985198_MIT1_00S12_Lec_2.pdf
 file_type: application/pdf
 resourcetype: Document
 title: 'Interactive Development Environment: Eclipse'
