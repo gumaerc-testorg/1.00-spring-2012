@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding classes II.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/8979eefe96625266c98826edb07536c7_MIT1_00S12_Lec_8.pdf
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/8979eefe96625266c98826edb07536c7_MIT1_00S12_Lec_8.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Classes II

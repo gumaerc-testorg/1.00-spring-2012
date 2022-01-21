@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding quiz 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/7b90757c5746ad0dfa439389416a217d_MIT1_00S12_Quiz2_S10.pdf
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/7b90757c5746ad0dfa439389416a217d_MIT1_00S12_Quiz2_S10.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Quiz 2
