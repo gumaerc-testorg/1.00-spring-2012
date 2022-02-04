@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding methods and scope.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/c7f9a6365ca0a10ede2baf7b701f7f1f_MIT1_00S12_Lec_6.pdf
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/c7f9a6365ca0a10ede2baf7b701f7f1f_MIT1_00S12_Lec_6.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Methods and Scope

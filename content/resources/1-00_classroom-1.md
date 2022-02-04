@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/20edc3dd760e735c7d2a7a9d3b19abbd_1-00_classroom-1.jpg
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/20edc3dd760e735c7d2a7a9d3b19abbd_1-00_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

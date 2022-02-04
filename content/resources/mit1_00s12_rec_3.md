@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding class and objects.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/68528dc62eb8b1e055abbeccab786408_MIT1_00S12_REC_3.pdf
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/68528dc62eb8b1e055abbeccab786408_MIT1_00S12_REC_3.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Class and Objects

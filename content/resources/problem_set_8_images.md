@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for problem set 8 images.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/c92b9a77969796b8bbb5975ac71f6d54_Problem_Set_8_images.zip
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/c92b9a77969796b8bbb5975ac71f6d54_Problem_Set_8_images.zip
 file_type: application/zip
 resourcetype: Other
 title: Problem_Set_8_images.zip

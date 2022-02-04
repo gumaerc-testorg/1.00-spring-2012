@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for problem set 10 code.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/0c67cdfb6032ee157c02f575d3a96156_Problem_Set_10_code.zip
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/0c67cdfb6032ee157c02f575d3a96156_Problem_Set_10_code.zip
 file_type: application/zip
 resourcetype: Other
 title: Problem_Set_10_code.zip

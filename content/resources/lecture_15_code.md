@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for lecture 15.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/23e12c05ae20d0aced22b46f2df4a436_Lecture_15_code.zip
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/23e12c05ae20d0aced22b46f2df4a436_Lecture_15_code.zip
 file_type: application/zip
 resourcetype: Other
 title: Lecture_15_code.zip

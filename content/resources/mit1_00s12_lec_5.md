@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding more data types, control
   structures, intro to methods.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/1012eb5f705a00730fd8128e474f6b81_MIT1_00S12_Lec_5.pdf
+file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/1012eb5f705a00730fd8128e474f6b81_MIT1_00S12_Lec_5.pdf
 file_type: application/pdf
 resourcetype: Document
 title: More Data Types, Control Structures, Intro to Methods
