@@ -4,6 +4,11 @@ description: This resource contains information regarding how to install eclipse
   Mac OS.
 file: /media/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/685158a625eba9ccf014179b6558d3cc_MIT1_00S12_Ins_Eclpse_Mac.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: How to install Eclipse for Mac OS
 uid: 685158a6-25eb-a9cc-f014-179b6558d3cc
