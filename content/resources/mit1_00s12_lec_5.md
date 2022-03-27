@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cfe95031-1d4d-a15d-46b1-ed49c9bb355d
 resourcetype: Document
 title: More Data Types, Control Structures, Intro to Methods
 uid: 1012eb5f-705a-0073-0fd8-128e474f6b81

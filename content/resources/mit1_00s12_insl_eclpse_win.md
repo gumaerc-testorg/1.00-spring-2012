@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ab358d66-3152-f31a-5603-5144d6d77e4b
 resourcetype: Document
 title: How to install Eclipse for Windows
 uid: 00b4162a-83d3-d924-90a7-fc0c93c4d666

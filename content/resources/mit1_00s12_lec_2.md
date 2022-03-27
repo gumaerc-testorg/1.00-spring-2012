@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cfe95031-1d4d-a15d-46b1-ed49c9bb355d
 resourcetype: Document
 title: 'Interactive Development Environment: Eclipse'
 uid: 2e15dbbf-cfb6-7dd3-d83f-dcc05a985198

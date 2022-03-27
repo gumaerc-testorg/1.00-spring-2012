@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ab358d66-3152-f31a-5603-5144d6d77e4b
 resourcetype: Document
 title: How to install Java for Windows
 uid: b268388c-f810-2823-e208-ca64bcf0946c

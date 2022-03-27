@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ab358d66-3152-f31a-5603-5144d6d77e4b
 resourcetype: Document
 title: How to install Eclipse for Mac OS
 uid: 685158a6-25eb-a9cc-f014-179b6558d3cc

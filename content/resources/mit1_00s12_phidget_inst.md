@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ab358d66-3152-f31a-5603-5144d6d77e4b
 resourcetype: Document
 title: How to install Phidgets
 uid: 3d06dd39-a476-7a40-aac5-6b0e3371d9b6

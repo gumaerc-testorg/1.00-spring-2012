@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: b572abe5-27d6-eb43-bbfc-f09bfe5f3397
 resourcetype: Document
 title: Static Array & ArrayList
 uid: b222458d-df20-1437-e5e5-ad6c2d75a145

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: b572abe5-27d6-eb43-bbfc-f09bfe5f3397
 resourcetype: Document
 title: Recursion, Inheritance
 uid: 611e4980-2000-5dcd-30cb-5a9cd6d73935

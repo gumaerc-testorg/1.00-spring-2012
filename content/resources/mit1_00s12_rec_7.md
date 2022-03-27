@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: b572abe5-27d6-eb43-bbfc-f09bfe5f3397
 resourcetype: Document
 title: Swing, Frame Customization, Events
 uid: c632003d-1e00-11d1-10aa-8d93e5f40152

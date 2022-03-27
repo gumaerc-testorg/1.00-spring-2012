@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: b572abe5-27d6-eb43-bbfc-f09bfe5f3397
 resourcetype: Document
 title: JAVA and Eclipse - Data Types, Variables, Logical Operators
 uid: c7518d16-99da-39db-2805-f59dba1d4a84

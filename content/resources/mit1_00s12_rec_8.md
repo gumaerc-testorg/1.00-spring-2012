@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: b572abe5-27d6-eb43-bbfc-f09bfe5f3397
 resourcetype: Document
 title: Phidget Setup, Model-View-Controller, 2D API, Affline Transformations
 uid: 712869a2-d948-3044-c337-be939f635c9a
