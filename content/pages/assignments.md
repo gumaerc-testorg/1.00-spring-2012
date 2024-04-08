@@ -92,7 +92,7 @@ SUPPORTING FILES
 {{% resource_link cd5ff090-89b5-f760-7af9-c62290f5c630 "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link c92b9a77-9697-96b8-bbb5-975ac71f6d54 "Problem Set 8 images (ZIP)" %}} (This ZIP file conatins: 2 .png files.) (Train images courtesy of [Ken Houghton Rail Images](http://www.rrhistorical.com/).)
+{{% resource_link c92b9a77-9697-96b8-bbb5-975ac71f6d54 "Problem Set 8 images (ZIP)" %}} (This ZIP file conatins: 2 .png files.) (Train images courtesy of {{% resource_link "469d8ba8-2d23-4046-9709-68ea9f8822ac" "Ken Houghton Rail Images" %}}.)
 {{< tdclose >}}
 
 {{< trclose >}}

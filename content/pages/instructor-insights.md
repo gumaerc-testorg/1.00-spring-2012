@@ -47,7 +47,7 @@ We’re teaching computation to students who are not computer science majors, bu
 
 Dr. Steve Lerman, Dr. Jud Harward and Dr. George Kocur wrote grant proposals to receive funding to develop the active learning materials and to provide loaner laptops about 10 years ago. We also rewrote all the course materials to switch to active learning and co-taught this subject every semester.
 
-While the educational literature suggested active learning at the time we chose to adopt it (see [McCray, DeHaan & Shuck \[2003\]](http://www.nap.edu/openbook.php?record_id=10711&page=R1)), examples of active learning were very limited. We needed to learn, by trial and error, how to create this interactive style of teaching. We expanded the length of lectures (active learning) from one hour to one and a half hours, and we reduced the amount of material covered somewhat. Student performance increased substantially.
+While the educational literature suggested active learning at the time we chose to adopt it (see {{% resource_link "47553f3e-7e1b-4ae1-8950-b7bc471eef21" "McCray, DeHaan & Shuck \[2003\]" %}}), examples of active learning were very limited. We needed to learn, by trial and error, how to create this interactive style of teaching. We expanded the length of lectures (active learning) from one hour to one and a half hours, and we reduced the amount of material covered somewhat. Student performance increased substantially.
 
 ### Refining Teaching
 
@@ -65,10 +65,10 @@ All the materials for the semester are completed before the first class: lecture
 
 Undergraduate:
 
-- Required for [15-1](http://catalog.mit.edu/degree-charts/management-course-15-1/), [16](http://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/), [16-ENG](http://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/)
-- Restricted elective for [12](http://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/)
-- Optional for [1](https://cee.mit.edu/course-1-year-1/), [3](http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/), [3-C](http://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/), [10-ENG](http://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/)
-- [Restricted Electives in Science and Technology](https://registrar.mit.edu/faculty-curriculum-support/faculty-curriculum-committees/committee-curricula/petitions/restricted)
+- Required for {{% resource_link "a7c01317-8bcb-4f5b-a1b3-b76b156cc6f7" "15-1" %}}, {{% resource_link "cf6028a8-cdfc-4618-9ea2-2d61b8528b4c" "16" %}}, {{% resource_link "e4b35186-ca2c-4d27-88b6-9fd033db4213" "16-ENG" %}}
+- Restricted elective for {{% resource_link "9c6fdabd-7d89-4f81-a43a-834e3ee76bb5" "12" %}}
+- Optional for {{% resource_link "93b47d93-527c-4b22-ad6d-175921670357" "1" %}}, {{% resource_link "d4346bb2-6e31-4cfc-a5f1-78919ebca0d5" "3" %}}, {{% resource_link "e129ea08-29de-46e5-813b-9136d57ea57f" "3-C" %}}, {{% resource_link "cb86fdeb-74ed-441d-a5f4-14c6a5489846" "10-ENG" %}}
+- {{% resource_link "fd0267f4-cd69-4b07-b590-5533896fec7d" "Restricted Electives in Science and Technology" %}}
 
 Graduate:
 
