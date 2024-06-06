@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding operators, control structures.
 file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/69a4895251b88a851662e2476e4dc45e_MIT1_00S12_Lec_1.pdf
+file_size: 76547
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

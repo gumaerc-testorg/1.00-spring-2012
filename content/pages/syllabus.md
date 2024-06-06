@@ -43,19 +43,19 @@ You must add 1.00 to your registration in time to submit homework 1. Adds after 
 
 ### Recommended
 
-Horstmann, Cay. *Big Java*. 4th ed. Wiley, 2009. ISBN: 9780470509487. \[Preview with {{% resource_link "022cd298-f50b-450d-8335-2b5996df7df9" "Google Books" %}}\]
+Horstmann, Cay. *Big Java*. 4th ed. Wiley, 2009. ISBN: 9780470509487. \[Preview with [Google Books](http://books.google.com/books?id=5R7WsLh4qMMC&pg=PAfrontcover#v=onepage)\]
 
 Look for discounted pricing, and you may be able to find it used. It's on reserve at Barker Engineering Library. You may use the 3rd edition.
 
 ### Optional
 
-Press, William, Saul Teukolsky, et al. *Numerical Recipes in C: The Art of Scientific Computing*. Cambridge University Press, 1992. ISBN: 9780521437202. \[Preview with {{% resource_link "3e498489-1ec6-4373-b35d-c298b563cc80" "Google Books" %}}\]
+Press, William, Saul Teukolsky, et al. *Numerical Recipes in C: The Art of Scientific Computing*. Cambridge University Press, 1992. ISBN: 9780521437202. \[Preview with [Google Books](http://books.google.com/books?id=4t-sybVuoqoC&pg=PAfrontcover#v=onepage)\]
 
 This is the source of the numerical methods we use; you should read the algorithm descriptions even if you don't wish to read the C code.
 
 ## Laptop Computers
 
-Laptop computers are required for class participation in 1.00, in all lecture/lab and recitation sessions. Please use your own laptop if you own one; you must download Java (J2SE), Javadoc and the Eclipse interactive development environment (IDE); see the {{% resource_link "ab358d66-3152-f31a-5603-5144d6d77e4b" "Tools section" %}} for directions. A laptop with at least 1 GB of memory running Windows Vista, Windows 7, Mac OSX or Linux is needed to run the 1.00 software. A limited number of loaner laptop computers are available; please contact {{% resource_link "bec0b82b-1d96-4df6-b753-789a794e7361" "IS&T" %}} to request one. You may also share a laptop if necessary.
+Laptop computers are required for class participation in 1.00, in all lecture/lab and recitation sessions. Please use your own laptop if you own one; you must download Java (J2SE), Javadoc and the Eclipse interactive development environment (IDE); see the {{% resource_link "ab358d66-3152-f31a-5603-5144d6d77e4b" "Tools section" %}} for directions. A laptop with at least 1 GB of memory running Windows Vista, Windows 7, Mac OSX or Linux is needed to run the 1.00 software. A limited number of loaner laptop computers are available; please contact [IS&T](https://ist.mit.edu/hardware/lcp/form) to request one. You may also share a laptop if necessary.
 
 ## Grading Policy
 
