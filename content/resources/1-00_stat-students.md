@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/1dc42593c04a51b83c01b9b1d3dcd5ce_1-00_stat-students.png
+file_size: 2933
 file_type: image/png
 image_metadata:
   caption: ''

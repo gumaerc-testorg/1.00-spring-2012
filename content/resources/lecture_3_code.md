@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file for lecture 3.
 file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/dd68ca2691e6a9eacce8980fc7911dcf_Lecture_3_code.zip
+file_size: 593
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
