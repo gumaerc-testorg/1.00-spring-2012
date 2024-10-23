@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding quiz 2 review.
-file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/4a96ce0e805d9a0bb2a6b27604350666_MIT1_00S12_Quiz_2_Review.pdf
+file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/4a96ce0e805d9a0bb2a6b27604350666_MIT1_00S12_Quiz_2_Review.pdf
 file_size: 934309
 file_type: application/pdf
 learning_resource_types:

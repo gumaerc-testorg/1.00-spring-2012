@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for problem set 10 code.
-file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/0c67cdfb6032ee157c02f575d3a96156_Problem_Set_10_code.zip
+file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/0c67cdfb6032ee157c02f575d3a96156_Problem_Set_10_code.zip
 file_size: 2146
 file_type: application/zip
 learning_resource_types:
