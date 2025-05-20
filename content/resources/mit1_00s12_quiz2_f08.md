@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding quiz 2.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/1e2a6b811f1fce7d4faedb24e67b8673_MIT1_00S12_Quiz2_F08.pdf
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/1e2a6b811f1fce7d4faedb24e67b8673_MIT1_00S12_Quiz2_F08.pdf
 file_size: 104161
 file_type: application/pdf
 learning_resource_types:

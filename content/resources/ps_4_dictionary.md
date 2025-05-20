@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for problem set 4.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/3f8ac9867d17e6cd1cca0d2ee6ade7fa_PS_4_Dictionary.java
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/3f8ac9867d17e6cd1cca0d2ee6ade7fa_PS_4_Dictionary.java
 file_size: 6236
 file_type: text/x-java
 learning_resource_types:

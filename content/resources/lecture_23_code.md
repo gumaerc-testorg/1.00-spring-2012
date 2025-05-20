@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special resource for lecture 23.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/0ece800a170952b69153a46906f935e1_Lecture_23_code.zip
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/0ece800a170952b69153a46906f935e1_Lecture_23_code.zip
 file_size: 1198
 file_type: application/zip
 learning_resource_types:
