@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for quiz 2 review code.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/ebc4a912adc749b9ed3ab6dbf62b7b67_Quiz_2_review_code.zip
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/ebc4a912adc749b9ed3ab6dbf62b7b67_Quiz_2_review_code.zip
 file_size: 896
 file_type: application/zip
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for problem set 8 images.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/c92b9a77969796b8bbb5975ac71f6d54_Problem_Set_8_images.zip
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/c92b9a77969796b8bbb5975ac71f6d54_Problem_Set_8_images.zip
 file_size: 59686
 file_type: application/zip
 learning_resource_types:
