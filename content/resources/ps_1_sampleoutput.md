@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for problem set 1.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/2545ccb691207769525b815cf277e641_PS_1_SampleOutput.txt
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/2545ccb691207769525b815cf277e641_PS_1_SampleOutput.txt
 file_size: 1775
 file_type: text/plain
 learning_resource_types:

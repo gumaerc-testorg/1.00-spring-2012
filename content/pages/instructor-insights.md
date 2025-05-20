@@ -13,7 +13,7 @@ video_metadata:
 ---
 ## Course Overview
 
-This page focuses on the course _1.00 Introduction to Computers and Engineering Problem Solving_ as it was taught by Dr. George Kocur, Dr. Chris Cassa, and Professor Marta Gonzalez in Spring 2012.
+This page focuses on the course *1.00 Introduction to Computers and Engineering Problem Solving* as it was taught by Dr. George Kocur, Dr. Chris Cassa, and Professor Marta Gonzalez in Spring 2012.
 
 1.00 is a course in the use of computation in engineering. It is as much a modeling class as a software class, and it focuses on formulating and solving engineering problems that involve computation. It considers the computer a part of an overall engineering system, and it blends the study of computation with its use in engineering settings. 1.00 incorporates active learning, through the frequent inclusion of short laboratory exercises, to allow students to self-test their understanding of the material. The homework assignments are longer exercises, in which students learn how to design and implement solutions to larger problems; most assignments have multiple correct approaches, and students are expected to identify and contrast them.
 
@@ -37,7 +37,7 @@ Most students take 1.00 as an elective to provide them with skills in computatio
 
 {{< quote "It’s such a blast to teach [this course]." "—Dr. George Kocur" >}}
 
-_Below, Dr. George Kocur describes various aspects of how he taught_ 1.00 Introduction to Computers and Engineering Problem Solving.
+*Below, Dr. George Kocur describes various aspects of how he taught* 1.00 Introduction to Computers and Engineering Problem Solving.
 
 ### Teaching computer science to students with diverse backgrounds
 
@@ -59,7 +59,7 @@ All the materials for the semester are completed before the first class: lecture
 
 ### Prerequisites
 
-[_18.01 Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010)
+[*18.01 Single Variable Calculus*](https://ocw-studio.odl.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010)
 
 ### Requirements Satisfied
 
@@ -67,7 +67,7 @@ Undergraduate:
 
 - Required for [15-1](http://catalog.mit.edu/degree-charts/management-course-15-1/), [16](http://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/), [16-ENG](http://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/)
 - Restricted elective for [12](http://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/)
-- Optional for [1](https://cee.mit.edu/course-1-year-1/), [3](http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/), [3-C](http://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/), [10-ENG](http://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/)
+- Optional for [1](https://catalog.mit.edu/schools/engineering/civil-environmental-engineering/), [3](http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/), [3-C](http://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/), [10-ENG](http://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/)
 - [Restricted Electives in Science and Technology](https://registrar.mit.edu/faculty-curriculum-support/faculty-curriculum-committees/committee-curricula/petitions/restricted)
 
 Graduate:
@@ -92,7 +92,7 @@ The students' grades were based on the following activities:
 
 ### Instructor Insights on Assessment
 
-We saw a major change in student outcomes after implementing active learning. Before active learning, about 15% of students had end-of-term grade averages less than 50%. After active learning, we have essentially no one below 50% or, in most semesters, 60%. Attendance is high, and quiz and exam scores have improved. An early evaluation is at Barak, M., J. Harward, G. Kocur, et al. “Transforming an Introductory Programming Course: From Lectures to Active Learning via Wireless Laptops,” _Journal of Science Education and Technology_, Volume 16, No. 4, August 2007.
+We saw a major change in student outcomes after implementing active learning. Before active learning, about 15% of students had end-of-term grade averages less than 50%. After active learning, we have essentially no one below 50% or, in most semesters, 60%. Attendance is high, and quiz and exam scores have improved. An early evaluation is at Barak, M., J. Harward, G. Kocur, et al. “Transforming an Introductory Programming Course: From Lectures to Active Learning via Wireless Laptops,” *Journal of Science Education and Technology*, Volume 16, No. 4, August 2007.
 
 ## Student Information
 

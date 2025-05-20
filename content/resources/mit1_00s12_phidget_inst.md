@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding how to install phidgets.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/3d06dd39a4767a40aac56b0e3371d9b6_MIT1_00S12_Phidget_Inst.pdf
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/3d06dd39a4767a40aac56b0e3371d9b6_MIT1_00S12_Phidget_Inst.pdf
 file_size: 1022601
 file_type: application/pdf
 learning_resource_types:

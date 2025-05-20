@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding how to install eclipse for
   Mac OS.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/685158a625eba9ccf014179b6558d3cc_MIT1_00S12_Ins_Eclpse_Mac.pdf
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/685158a625eba9ccf014179b6558d3cc_MIT1_00S12_Ins_Eclpse_Mac.pdf
 file_size: 698443
 file_type: application/pdf
 learning_resource_types:

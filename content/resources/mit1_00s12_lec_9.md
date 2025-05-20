@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding methods and objects, access.
-file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/f930bca3c6f6c33dc376f0c831c7841c_MIT1_00S12_Lec_9.pdf
+file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/f930bca3c6f6c33dc376f0c831c7841c_MIT1_00S12_Lec_9.pdf
 file_size: 140381
 file_type: application/pdf
 learning_resource_types:
