@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/20edc3dd760e735c7d2a7a9d3b19abbd_1-00_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/20edc3dd760e735c7d2a7a9d3b19abbd_1-00_classroom-1.jpg
 file_size: 52430
 file_type: image/jpeg
 image_metadata:
