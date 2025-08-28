@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding iteration and methods. '
-file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/e60f807428abe7e77fefab1930cc1a41_MIT1_00S12_REC_2.pdf
+file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/e60f807428abe7e77fefab1930cc1a41_MIT1_00S12_REC_2.pdf
 file_size: 474829
 file_type: application/pdf
 learning_resource_types:

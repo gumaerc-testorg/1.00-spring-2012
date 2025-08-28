@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding how to install java for
   windows.
-file: /courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/b268388cf8102823e208ca64bcf0946c_MIT1_00S12_Insl_Java_Win.pdf
+file: /ol-ocw-studio-app/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/b268388cf8102823e208ca64bcf0946c_MIT1_00S12_Insl_Java_Win.pdf
 file_size: 223577
 file_type: application/pdf
 learning_resource_types:
