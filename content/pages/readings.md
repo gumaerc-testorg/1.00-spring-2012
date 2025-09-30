@@ -16,13 +16,13 @@ Textbooks
 
 ### Recommended
 
-**Text**: Horstmann, Cay. _Big Java_. 4th ed. Wiley, 2009. ISBN: 9780470509487. \[Preview with [Google Books](http://books.google.com/books?id=5R7WsLh4qMMC&pg=PAfrontcover#v=onepage)\] Look for discounted pricing, and you may be able to find it used. You may use the 3rd edition.
+**Text**: Horstmann, Cay. _Big Java_. 4th ed. Wiley, 2009. ISBN: 9780470509487. \[Preview with {{% resource_link "5f9b5289-7937-465f-abf1-da5d6f3a245c" "Google Books" %}}\] Look for discounted pricing, and you may be able to find it used. You may use the 3rd edition.
 
 ### Optional
 
-**NR**: Press, William, Saul Teukolsky, et al. _Numerical Recipes in C: The Art of Scientific Computing_. Cambridge University Press, 1992. ISBN: 9780521437202. \[Preview with [Google Books](http://books.google.com/books?id=4t-sybVuoqoC&pg=PAfrontcover#v=onepage)\]
+**NR**: Press, William, Saul Teukolsky, et al. _Numerical Recipes in C: The Art of Scientific Computing_. Cambridge University Press, 1992. ISBN: 9780521437202. \[Preview with {{% resource_link "05ce30a8-0cde-4f44-89eb-274b3cce7b89" "Google Books" %}}\]
 
-[**Phidgets documentation**](http://www.phidgets.com/docs/Language_-_Java)
+{{% resource_link "23c95394-f082-4b2c-8f39-419736b46e93" "**Phidgets documentation**" %}}
 
 The following table lists readings from the required and optional texts.
 
